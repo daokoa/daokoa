@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome!
 
-Hello! 🙋‍♂️ I'm **Dao**, an upcoming sophomore at **UC Irvine** majoring in **Computer Engineering**, but working my way into **Computer Science and Engineering**. 
+Hello! 🙋‍♂️ I'm **Dao**, a sophomore at **UC Irvine** majoring in **Computer Engineering**, but working my way into **Computer Science and Engineering**. 
 
 I'm super passionate about all things tech and always looking to grow, learn, and connect.
 
