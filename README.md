@@ -1,37 +1,38 @@
 ### Hi there 👋 Welcome to my GitHub!
 
-I'm **Dao**, a sophomore at **UC Irvine** majoring in **Computer Engineering**, currently working toward **Computer Science & Engineering**.  
-I’m interested in **software engineering**, **backend systems**, and building things that actually work end-to-end.
+I'm **Dao**, a sophomore at **UC Irvine** majoring in **Computer Engineering**, working toward **Computer Science & Engineering**.  
+I’m interested in **software engineering**, **backend systems**, and building practical tools end-to-end.
 
-I’m early in my SWE journey, but I take projects seriously and enjoy learning by building real systems.
+I learn best by building real systems, breaking things, and fixing them.
 
 ---
 
 ### 🧩 About Me
 
 - 💻 SWE intern–oriented student with a backend + systems focus  
-- 🧠 Interested in how software interacts with hardware and real-world systems  
-- 🃏 Pokémon card collector (data + markets are surprisingly fun to model)
-- 🎮 Valorant enjoyer (Plat/Diamond on a good day)
-- 📺 Anime, TV shows, and the occasional manga/book
-- 😄 Dry, sarcastic humor — but always down to collaborate or learn from others
+- 🧠 Interested in how software interfaces with hardware and real-world systems  
+- 🃏 Pokémon card collector (markets + data are fun to model)
+- 🎮 Valorant (Plat/Diamond on a good day)
+- 📺 Anime, TV shows, and occasional manga/books
+- 😄 Dry, sarcastic humor — always down to collaborate or learn
 
 ---
 
-### 🛠️ Technical Skills & Interests
+### 🛠️ Technical Skills
 
 - **Languages:** Python, C, Verilog  
-- **Backend & Tools:** Flask, REST APIs, Git/GitHub  
+- **Backend & APIs:** Flask, REST APIs, JSON  
+- **Tools:** Git/GitHub, Linux, VS Code  
 - **Systems:** Digital logic, RTL design, debugging  
-- **Currently learning:** Data Structures & Algorithms, Linux workflows, software design fundamentals
+- **Currently learning:** Data Structures & Algorithms, software design fundamentals
 
 ---
 
 ### 🚀 What I’m Working On
 
-- 📦 Building backend-focused personal projects (APIs, data processing, automation)
+- 📦 Backend-focused personal projects (APIs, data ingestion, automation)
 - 📚 Strengthening CS fundamentals through coursework and independent study
-- 🔄 Improving GitHub workflows, testing, and documentation practices
+- 🔄 Improving testing, documentation, and GitHub workflows
 - 🧠 Preparing for SWE internship recruiting
 
 ---
@@ -39,7 +40,13 @@ I’m early in my SWE journey, but I take projects seriously and enjoy learning 
 ### 📌 Featured Projects
 
 - **ANTracks** — Backend-driven student budgeting assistant using Flask and LLM integration  
-  *(More projects coming soon)*
+- **Pokefolio (in progress)** — Data-driven portfolio tracking platform with analytics and APIs
+
+---
+
+### 📊 GitHub Stats
+
+![Dao's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyil5&show_icons=true&theme=default&hide_border=true)
 
 ---
 
