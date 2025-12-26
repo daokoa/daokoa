@@ -1,42 +1,53 @@
-### Hi there 👋, Welcome!
+### Hi there 👋 Welcome to my GitHub!
 
-Hello! 🙋‍♂️ I'm **Dao**, a sophomore at **UC Irvine** majoring in **Computer Engineering**, but working my way into **Computer Science and Engineering**. 
+I'm **Dao**, a sophomore at **UC Irvine** majoring in **Computer Engineering**, currently working toward **Computer Science & Engineering**.  
+I’m interested in **software engineering**, **backend systems**, and building things that actually work end-to-end.
 
-I'm super passionate about all things tech and always looking to grow, learn, and connect.
+I’m early in my SWE journey, but I take projects seriously and enjoy learning by building real systems.
 
 ---
 
 ### 🧩 About Me
 
-- 🧠 I collect **Pokémon cards** (always down to trade or show off my collection)
-- 🎮 Hardstuck **Plat/Diamond** in valorant
-- 🧊 I enjoy solving **Rubik's Cubes** 
-- 📺 I binge **anime**, **TV shows**, and occasionally read **manga** and **books**
-- 😏 My humor is dry, sarcastic, and im always happy to meet new people or collaborate on cool stuff!
+- 💻 SWE intern–oriented student with a backend + systems focus  
+- 🧠 Interested in how software interacts with hardware and real-world systems  
+- 🃏 Pokémon card collector (data + markets are surprisingly fun to model)
+- 🎮 Valorant enjoyer (Plat/Diamond on a good day)
+- 📺 Anime, TV shows, and the occasional manga/book
+- 😄 Dry, sarcastic humor — but always down to collaborate or learn from others
 
 ---
 
-### 🛠️ Skills / Interests
+### 🛠️ Technical Skills & Interests
 
-- Computer Engineering Foundations (Verilog, Logic Design)
-- Python
-- Still early in my CS journey—but I’m here for the grind!
-
----
-
-### 🚀 Currently
-
-- 📚 Learning data structures & algorithms
-- 🛠️ Improving my coding skills through personal projects and Udemy courses
-- 🔄 Exploring GitHub workflows, Linux tools, and maybe a little frontend
+- **Languages:** Python, C, Verilog  
+- **Backend & Tools:** Flask, REST APIs, Git/GitHub  
+- **Systems:** Digital logic, RTL design, debugging  
+- **Currently learning:** Data Structures & Algorithms, Linux workflows, software design fundamentals
 
 ---
 
-### 📬 Let's Connect!
+### 🚀 What I’m Working On
 
+- 📦 Building backend-focused personal projects (APIs, data processing, automation)
+- 📚 Strengthening CS fundamentals through coursework and independent study
+- 🔄 Improving GitHub workflows, testing, and documentation practices
+- 🧠 Preparing for SWE internship recruiting
+
+---
+
+### 📌 Featured Projects
+
+- **ANTracks** — Backend-driven student budgeting assistant using Flask and LLM integration  
+  *(More projects coming soon)*
+
+---
+
+### 📬 Let’s Connect
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgdoan@uci.edu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daokoaa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.dgdoan@uci.edu)
 
 ---
 
-🧸 **Fun fact:** My sarcasm level is directly proportional to how comfortable I am with you.
+⭐ **Fun fact:** My sarcasm level is directly proportional to how comfortable I am with you.
