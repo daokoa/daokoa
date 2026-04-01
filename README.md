@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub!
+### Welcome to my GitHub!
 
 I'm **Dao**, a sophomore at **UC Irvine** majoring in **Computer Engineering**, working toward **Computer Science & Engineering**.  
 I’m interested in **software engineering**, **backend systems**, and building practical tools end-to-end.
@@ -7,14 +7,14 @@ I learn best by building real systems, breaking things, and fixing them.
 
 ---
 
-### 🧩 About Me
+### About Me
 
-- 💻 SWE intern–oriented student with a backend + systems focus  
-- 🧠 Interested in how software interfaces with hardware and real-world systems  
-- 🃏 Pokémon card collector (markets + data are fun to model)
-- 🎮 Valorant (Plat/Diamond on a good day)
-- 📺 Anime, TV shows, and occasional manga/books
-- 😄 Dry, sarcastic humor — always down to collaborate or learn
+- SWE intern–oriented student with a backend + systems focus  
+- Interested in how software interfaces with hardware and real-world systems  
+- Pokémon card collector (markets + data are fun to model)
+- Valorant (Plat/Diamond on a good day)
+- Anime, TV shows, and occasional manga/books
+- Dry, sarcastic humor — always down to collaborate or learn
 
 ---
 
@@ -28,12 +28,12 @@ I learn best by building real systems, breaking things, and fixing them.
 
 ---
 
-### 🚀 What I’m Working On
+### What I’m Working On
 
-- 📦 Backend-focused personal projects (APIs, data ingestion, automation)
-- 📚 Strengthening CS fundamentals through coursework and independent study
-- 🔄 Improving testing, documentation, and GitHub workflows
-- 🧠 Preparing for SWE internship recruiting
+- Backend-focused personal projects (APIs, data ingestion, automation)
+- Strengthening CS fundamentals through coursework and independent study
+- Improving testing, documentation, and GitHub workflows
+- Preparing for SWE internship recruiting
 
 ---
 
