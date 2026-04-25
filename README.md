@@ -44,12 +44,6 @@ I learn best by building real systems, breaking things, and fixing them.
 
 ---
 
-### 📊 GitHub Stats
-
-![Dao's GitHub stats](https://github-readme-stats.vercel.app/api?username=leyil5&show_icons=true&theme=default&hide_border=true)
-
----
-
 ### 📬 Let’s Connect
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgdoan@uci.edu)
