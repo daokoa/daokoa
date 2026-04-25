@@ -46,7 +46,7 @@ I learn best by building real systems, breaking things, and fixing them.
 
 ### 📬 Let’s Connect
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dgdoan@uci.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daogdoan@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daokoaa)
 
 ---
